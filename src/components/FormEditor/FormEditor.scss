@@ -1,0 +1,24 @@
+.field {
+    padding :10px;
+}
+label {
+    padding: 5px;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.items-editor {
+    width: 80%;
+    padding: 20px;
+}
+.msg {
+    text-align: center;
+    padding: 50px;
+}
+  

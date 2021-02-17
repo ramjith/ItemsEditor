@@ -1,0 +1,20 @@
+ul {
+    list-style: none;
+    padding: 0;
+  }
+li {
+    padding: 15px 10px;
+    background-color: #EEEEEE;
+    border: 1px solid #DDDDDD;
+    text-align:  center;
+    cursor: pointer;
+}
+li:hover {
+    background-color: #425866;
+    color: white;
+}
+
+li.selected {
+    background-color:#4d6d9a;
+    color: white;
+}

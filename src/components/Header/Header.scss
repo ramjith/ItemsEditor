@@ -1,0 +1,26 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+}
+.flex-items {
+    color: white;
+    padding-left: 20px;
+}
+.toolbar {
+    padding: 15px;
+    span {
+        padding: 5px;
+    }
+}
+button {
+    height:30px;
+    width: 80px;
+    padding: 5px;
+    border: none;
+    background-color: white;
+    font-size: 14px;
+    border-radius: 5px
+}
+button:hover {
+    background-color: #c5cbe3;
+}
